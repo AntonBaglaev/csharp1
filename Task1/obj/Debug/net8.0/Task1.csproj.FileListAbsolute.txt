@@ -12,3 +12,4 @@ D:\Курсы\GeekBrains\1 четверть\Знакомство с языкам
 D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task1\obj\Debug\net8.0\Task1.pdb
 D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
