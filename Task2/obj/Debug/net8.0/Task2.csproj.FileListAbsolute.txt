@@ -1,0 +1,15 @@
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\bin\Debug\net8.0\Task2.exe
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\bin\Debug\net8.0\Task2.dll
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\Task2.dll
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Курсы\GeekBrains\1 четверть\Знакомство с языками программирования (лекции)\lesson1\Task2\obj\Debug\net8.0\ref\Task2.dll
