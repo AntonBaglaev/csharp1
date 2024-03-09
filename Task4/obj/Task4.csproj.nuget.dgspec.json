@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\Task4\\Task4.csproj": {}
+    "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\task4\\Task4.csproj": {}
   },
   "projects": {
-    "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\Task4\\Task4.csproj": {
+    "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\Task4\\Task4.csproj",
+        "projectUniqueName": "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\Task4\\Task4.csproj",
+        "projectPath": "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\Task4\\obj\\",
+        "outputPath": "D:\\Курсы\\GeekBrains\\1 четверть\\Знакомство с языками программирования (лекции)\\lesson1\\task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
